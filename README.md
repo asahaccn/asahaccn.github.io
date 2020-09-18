@@ -1,3 +1,3 @@
 # background-generator
 
-Generates two different Background color using color picker.
+Generates two different background color using color picker.
